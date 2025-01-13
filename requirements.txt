@@ -1,4 +1,4 @@
-Pillow>=9.2.0
+Pillow==9.5.0
 Requests==2.30.0
 streamlit==1.22.0
 streamlit_lottie==0.0.3
@@ -7,4 +7,4 @@ llama-index>=0.8.5
 llama-cpp-python==0.1.9
 nltk==3.8.1
 sentence_transformers
-langchain-community>=0.0.1
+langchain
