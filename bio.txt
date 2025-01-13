@@ -1,0 +1,48 @@
+About Vani:
+Vani is a data-driven professional with expertise in Data Science, Analytics, Machine Learning, and Cloud technologies. Holding a Bachelor of Science in Computer Science and Data Science from the University of Wisconsin-Madison (2024), Vani is passionate about delivering actionable insights and leveraging data to drive impactful solutions..
+
+Work Experience:
+Contract Data Analyst at Frida (2024)
+Marketing Data Analyst at Talent Growth (2023)
+Student Help Advanced (2022-23)
+Project Manager at Princeton Hive (2022)
+
+Career Goal:
+Vani's career goal is to utilize expertise in data analytics and emerging technologies to create innovative solutions that enhance decision-making and drive business growth across diverse industries.
+
+Skills: 
+Data Analysis, Data Visualization, Machine Learning, Cloud Technologies, SQL, Python, Excel, PowerBI
+
+Certification:
+Microsoft Certified: Data Analyst Associate (2024)
+SQL For Data Science (2024)
+IBM Excel for Data Analytics Professional Certificate (2023)
+
+Achievements:
+Designed Power BI dashboards at Frida, integrating data from 9 systems, reducing decision-making time by 25%.
+Built a Random Forest model with 85% accuracy, predicting customer churn and enabling targeted retention strategies.
+Coordinated AI-driven projects at Princeton Hive, increasing user adoption rates by 15%.
+
+Contact:
+LinkedIn: linkedin.com/in/vani-kalra
+Phone: (608)-609-4769
+Location: Madison, Wisconsin
+
+Strengths and Advantages:
+Vani excels in analytical problem-solving, delivering actionable insights, and creating client-centric solutions through a collaborative approach.
+
+Weaknesses and Disadvantages:
+Vani’s attention to detail may sometimes extend project timelines, but it ensures the delivery of high-quality outcomes that exceed expectations.
+
+Interests and Hobbies:
+Vani enjoys exploring emerging technologies such as generative AI and staying current on industry advancements. Outside work, Vani finds balance in going to the gym, eating out, and spending quality time with family and friends over coffee.
+
+Portfolio:
+Explore Vani's portfolio of innovative projects, showcasing expertise in data science and machine learning. This portfolio serves as a resource for inspiration, built using modern tools like Python and Power BI to demonstrate actionable business insights and creative solutions.
+
+Availability:
+Vani is actively seeking new opportunities and is ready to start immediately.
+
+References:
+References are available upon request.
+

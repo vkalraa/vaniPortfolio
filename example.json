@@ -1,0 +1,106 @@
+{
+    "title": {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "text": {
+            "headline": "Professional Timeline<br>Vani Kalra",
+            "text": "<p>A journey showcasing my work experience, projects, and achievements.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "",
+                "caption": "Frida Work (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2024",
+                "month": "6",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Contract Data Analyst<br>Frida",
+                "text": "<p>Developed Power BI dashboards integrating data from 9 systems, reducing decision-making time by 25%. Conducted data validation for 1,461 SKU records, enhancing master data accuracy by 20%.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Talent Growth (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2023",
+                "month": "5",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Marketing Data Analyst<br>Talent Growth",
+                "text": "<p>Optimized marketing campaigns through data analysis, achieving a 35% efficiency gain. Designed interactive dashboards in Tableau, driving a 20% growth in client engagement.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "UW Extended Campus (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "9",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Student Help Advanced<br>UW Extended Campus",
+                "text": "<p>Streamlined admissions workflows using Salesforce and cloud tools, reducing process time by 30%. Ensured data accuracy through validation and consistent record updates.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Princeton Hive (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "3",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Project Manager<br>Princeton Hive",
+                "text": "<p>Implemented AI tools for educational product analysis, increasing adoption rates by 15%. Coordinated workflows for 4 clients, improving project outcomes by 25%.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Customer Churn Analysis Project (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2024",
+                "month": "8",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Customer Churn Analysis Project",
+                "text": "<p>Built a Random Forest model with 85% accuracy to predict churn risks for 7,043 records, enabling data-driven retention strategies.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Loan Approval Prediction Project (<a target='_blank' href=''>credits</a>)"
+            },
+            "start_date": {
+                "year": "2024",
+                "month": "3",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Loan Approval Prediction Project",
+                "text": "<p>Analyzed loan data using Google BigQuery and SQL, integrating datasets from 3,200 counties and designing Tableau dashboards for actionable insights.</p>"
+            }
+        }
+    ]
+}
+
